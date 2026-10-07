@@ -1,0 +1,89 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222 47% 11%;
+    --card: 0 0% 100%;
+    --card-foreground: 222 47% 11%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222 47% 11%;
+    --primary: 211 92% 40%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 210 40% 96%;
+    --secondary-foreground: 222 47% 11%;
+    --muted: 210 40% 96%;
+    --muted-foreground: 215 16% 47%;
+    --accent: 210 40% 94%;
+    --accent-foreground: 222 47% 11%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 0 0% 88%;
+    --input: 214 32% 91%;
+    --ring: 211 92% 40%;
+    --chart-1: 211 92% 40%;
+    --chart-2: 173 58% 39%;
+    --chart-3: 197 37% 24%;
+    --chart-4: 43 74% 66%;
+    --chart-5: 27 87% 67%;
+    --radius: 0.5rem;
+    --success: 142 71% 45%;
+    --success-foreground: 0 0% 100%;
+    --warning: 38 92% 50%;
+    --warning-foreground: 0 0% 100%;
+    --li-bg: 40 14% 95%;
+    --li-card: 0 0% 100%;
+    --li-border: 0 0% 88%;
+    --li-blue: 211 92% 40%;
+    --li-text: 222 47% 11%;
+    --li-muted: 215 16% 47%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  html {
+    -webkit-text-size-adjust: 100%;
+    scrollbar-width: thin;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "rlig" 1, "calt" 1;
+    overflow-x: hidden;
+  }
+}
+
+@layer utilities {
+  [dir="rtl"] {
+    text-align: right;
+  }
+  [dir="ltr"] {
+    text-align: left;
+  }
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+  .li-bg {
+    background-color: hsl(var(--li-bg));
+  }
+  .li-card {
+    background-color: hsl(var(--li-card));
+  }
+  .li-border {
+    border-color: hsl(var(--li-border));
+  }
+  .li-shadow {
+    box-shadow: 0 0 0 1px hsl(0 0% 88%), 0 2px 4px rgba(0,0,0,0.06);
+  }
+  .li-shadow-hover:hover {
+    box-shadow: 0 0 0 1px hsl(0 0% 80%), 0 4px 12px rgba(0,0,0,0.08);
+  }
+}

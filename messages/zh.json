@@ -1,0 +1,103 @@
+{
+  "Meta": {
+    "title": "AdawatPDF - 免费PDF工具，人人可用",
+    "description": "强大的PDF工具，专为阿拉伯语和多语言文档设计。合并、拆分、转换、压缩和OCR识别您的PDF文件 - 全部在浏览器中完成，100%免费，无任何限制。",
+    "ogTitle": "AdawatPDF - 人人可用的PDF工具",
+    "ogDescription": "强大的PDF工具，专为阿拉伯语和多语言文档设计。100%免费，无限制。"
+  },
+  "Nav": {
+    "tools": "工具",
+    "about": "关于",
+    "language": "语言"
+  },
+  "Hero": {
+    "title": "人人可用的PDF工具",
+    "subtitle": "强大的PDF工具，专为阿拉伯语和多语言文档设计。100%免费，无限制，无需注册。",
+    "cta": "浏览工具",
+    "badge": "100%免费 — 无需注册，无限制"
+  },
+  "Sidebar": {
+    "welcome": "欢迎使用 PDF 工具",
+    "welcomeDesc": "所有工具完全免费。无需注册，无任何限制，无广告。",
+    "tools": "工具",
+    "categories": "分类",
+    "allTools": "全部工具",
+    "organize": "整理 PDF",
+    "convert": "转换 PDF",
+    "edit": "编辑 PDF",
+    "security": "安全与 OCR",
+    "recentTools": "最近使用的工具",
+    "tipsTitle": "使用技巧",
+    "tip1Title": "轻松合并文件",
+    "tip1Desc": "一键将多个 PDF 合并为一个文件。可根据需要重新排列页面。",
+    "tip2Title": "无损压缩",
+    "tip2Desc": "在保持视觉质量完好无损的同时，显著减小文件大小。",
+    "tip3Title": "扫描文档 OCR",
+    "tip3Desc": "从扫描的 PDF 和图片中提取阿拉伯语、英语等多种语言的文本。"
+  },
+  "Tools": {
+    "sectionTitle": "所有PDF工具",
+    "sectionSubtitle": "处理PDF文件所需的一切 — 完全免费、快速、安全。",
+    "useTool": "使用",
+    "pdfToWord": { "name": "PDF转Word", "description": "将PDF文档转换为可编辑的Word文件" },
+    "wordToPdf": { "name": "Word转PDF", "description": "将Word文档转换为PDF格式" },
+    "jpgToPdf": { "name": "JPG转PDF", "description": "将图片转换为单个PDF文件" },
+    "pdfToJpg": { "name": "PDF转JPG", "description": "从PDF页面中提取图片" },
+    "pdfToExcel": { "name": "PDF转Excel", "description": "将PDF表格转换为Excel电子表格" },
+    "pdfToText": { "name": "PDF转文本", "description": "从PDF文件中提取文本内容" },
+    "mergePdf": { "name": "合并PDF", "description": "将多个PDF合并为一个文件" },
+    "splitPdf": { "name": "拆分PDF", "description": "将PDF拆分为单独的页面或范围" },
+    "deletePages": { "name": "删除页面", "description": "从PDF中删除不需要的页面" },
+    "rotatePdf": { "name": "旋转PDF", "description": "将PDF页面旋转到任意方向" },
+    "compressPdf": { "name": "压缩PDF", "description": "在保持质量的同时减小PDF文件大小" },
+    "arabicOcr": { "name": "阿拉伯语OCR", "description": "从扫描的PDF中提取阿拉伯语和英语文本" }
+  },
+  "ArabicFeatures": {
+    "title": "AdawatPDF在阿拉伯语处理上的优势",
+    "subtitle": "从底层专为阿拉伯语和多语言文档构建。",
+    "rtl": { "title": "真正的RTL支持", "description": "完整的从右到左布局架构，而非简单的CSS方向翻转。每个组件都遵循双向文本流。" },
+    "ocr": { "title": "阿拉伯语OCR引擎", "description": "使用Tesseract.js和ara+eng训练模型，从扫描文档中提取阿拉伯语和英语文本。" },
+    "multilingual": { "title": "多语言处理", "description": "处理混合阿拉伯语、英语和数字的文档，正确处理Unicode和双向文本。" },
+    "arabicNumbers": { "title": "阿拉伯数字支持", "description": "在所有转换中正确处理阿拉伯-印度数字和东阿拉伯-印度数字。" }
+  },
+  "Privacy": {
+    "title": "您的文件安全无忧",
+    "subtitle": "隐私不是功能 — 而是基础。",
+    "point1Title": "在浏览器中处理",
+    "point1Desc": "大多数工具完全在客户端运行。您的文件从不离开您的设备。",
+    "point2Title": "自动删除",
+    "point2Desc": "任何临时处理的文件都会自动删除 — 不存储任何内容。",
+    "point3Title": "无需账户",
+    "point3Desc": "无需注册即可使用所有工具。您的数据始终属于您。"
+  },
+  "Footer": {
+    "tools": "工具",
+    "about": "关于",
+    "privacy": "隐私",
+    "terms": "条款",
+    "contact": "联系",
+    "rights": "保留所有权利。",
+    "tagline": "专为阿拉伯语和多语言文档设计的免费PDF工具。"
+  },
+  "ToolPage": {
+    "uploadTitle": "上传您的文件",
+    "uploadSubtitle": "将文件拖放到此处，或点击浏览选择",
+    "browse": "浏览文件",
+    "supportedFormats": "支持的格式",
+    "processing": "处理中...",
+    "download": "下载结果",
+    "faqTitle": "常见问题",
+    "relatedToolsTitle": "相关工具",
+    "faq1Q": "这个工具是免费的吗？",
+    "faq1A": "是的，这个工具完全免费，没有任何限制。无需注册，无每日次数限制，无文件大小限制。",
+    "faq2Q": "我的文件安全吗？",
+    "faq2A": "安全。大多数工具直接在您的浏览器中处理文件，不会上传到我们的服务器。",
+    "faq3Q": "我需要创建账户吗？",
+    "faq3A": "不需要。所有工具都可以直接使用，无需任何账户或注册。",
+    "faq4Q": "支持阿拉伯语文本吗？",
+    "faq4A": "当然。我们所有的工具都内置了阿拉伯语和多语言文档支持，包括正确的RTL处理和阿拉伯语OCR。",
+    "backToTools": "返回所有工具",
+    "notFound": "未找到工具",
+    "notFoundDesc": "您寻找的工具不存在。"
+  }
+}

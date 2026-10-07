@@ -1,0 +1,103 @@
+{
+  "Meta": {
+    "title": "AdawatPDF - Kostenlose PDF-Werkzeuge für alle",
+    "description": "Leistungsstarke PDF-Werkzeuge, entwickelt für arabische und mehrsprachige Dokumente. Zusammenführen, Aufteilen, Konvertieren, Komprimieren und OCR Ihrer PDF-Dateien - alles in Ihrem Browser, 100% kostenlos, ohne Limits.",
+    "ogTitle": "AdawatPDF - PDF-Werkzeuge für alle",
+    "ogDescription": "Leistungsstarke PDF-Werkzeuge, entwickelt für arabische und mehrsprachige Dokumente. 100% kostenlos, ohne Limits."
+  },
+  "Nav": {
+    "tools": "Werkzeuge",
+    "about": "Über uns",
+    "language": "Sprache"
+  },
+  "Hero": {
+    "title": "PDF-Werkzeuge für alle",
+    "subtitle": "Leistungsstarke PDF-Werkzeuge, entwickelt für arabische und mehrsprachige Dokumente. 100% kostenlos, ohne Limits, ohne Anmeldung.",
+    "cta": "Werkzeuge erkunden",
+    "badge": "100% Kostenlos — Keine Anmeldung, keine Limits"
+  },
+  "Sidebar": {
+    "welcome": "Willkommen bei PDF-Werkzeuge",
+    "welcomeDesc": "Alle Werkzeuge sind komplett kostenlos. Keine Anmeldung, keine Limits, keine Werbung.",
+    "tools": "Werkzeuge",
+    "categories": "Kategorien",
+    "allTools": "Alle Werkzeuge",
+    "organize": "PDF organisieren",
+    "convert": "PDF konvertieren",
+    "edit": "PDF bearbeiten",
+    "security": "Sicherheit & OCR",
+    "recentTools": "Zuletzt verwendet",
+    "tipsTitle": "Tipps & Tricks",
+    "tip1Title": "Dateien einfach zusammenführen",
+    "tip1Desc": "Kombinieren Sie mehrere PDFs mit einem Klick zu einer Datei. Sortieren Sie die Seiten nach Bedarf.",
+    "tip2Title": "Komprimieren ohne Qualitätsverlust",
+    "tip2Desc": "Reduzieren Sie die Dateigröße deutlich, ohne die visuelle Qualität zu beeinträchtigen.",
+    "tip3Title": "OCR für gescannte Dokumente",
+    "tip3Desc": "Extrahieren Sie Text aus gescannten PDFs und Bildern auf Arabisch, Englisch und mehr."
+  },
+  "Tools": {
+    "sectionTitle": "Alle PDF-Werkzeuge",
+    "sectionSubtitle": "Alles, was Sie für die Arbeit mit PDF-Dateien benötigen — völlig kostenlos, schnell und sicher.",
+    "useTool": "Verwenden",
+    "pdfToWord": { "name": "PDF zu Word", "description": "PDF-Dokumente in bearbeitbare Word-Dateien konvertieren" },
+    "wordToPdf": { "name": "Word zu PDF", "description": "Word-Dokumente ins PDF-Format konvertieren" },
+    "jpgToPdf": { "name": "JPG zu PDF", "description": "Bilder in eine einzige PDF-Datei konvertieren" },
+    "pdfToJpg": { "name": "PDF zu JPG", "description": "Bilder aus PDF-Seiten extrahieren" },
+    "pdfToExcel": { "name": "PDF zu Excel", "description": "PDF-Tabellen in Excel-Tabellen konvertieren" },
+    "pdfToText": { "name": "PDF zu Text", "description": "Textinhalt aus PDF-Dateien extrahieren" },
+    "mergePdf": { "name": "PDF zusammenführen", "description": "Mehrere PDFs zu einer Datei kombinieren" },
+    "splitPdf": { "name": "PDF aufteilen", "description": "Ein PDF in einzelne Seiten oder Bereiche aufteilen" },
+    "deletePages": { "name": "Seiten löschen", "description": "Unerwünschte Seiten aus Ihrem PDF entfernen" },
+    "rotatePdf": { "name": "PDF drehen", "description": "PDF-Seiten in jede beliebige Ausrichtung drehen" },
+    "compressPdf": { "name": "PDF komprimieren", "description": "PDF-Dateigröße reduzieren bei erhaltener Qualität" },
+    "arabicOcr": { "name": "Arabische OCR", "description": "Arabischen und englischen Text aus gescannten PDFs extrahieren" }
+  },
+  "ArabicFeatures": {
+    "title": "Warum AdawatPDF im Arabischen überzeugt",
+    "subtitle": "Von Grund auf für arabische und mehrsprachige Dokumente entwickelt.",
+    "rtl": { "title": "Echte RTL-Unterstützung", "description": "Vollständige Rechts-nach-Links-Architektur, nicht nur eine CSS-Richtungsumkehr. Jede Komponente respektiert den Bidi-Textfluss." },
+    "ocr": { "title": "Arabische OCR-Engine", "description": "Arabischen und englischen Text aus gescannten Dokumenten mit Tesseract.js und trainierten ara+eng-Modellen extrahieren." },
+    "multilingual": { "title": "Mehrsprachige Verarbeitung", "description": "Dokumente mit gemischtem Arabisch, Englisch und Zahlen mit korrekter Unicode- und Bidi-Verarbeitung handhaben." },
+    "arabicNumbers": { "title": "Arabische Zahlenunterstützung", "description": "Korrekte Handhabung von arabisch-indischen und östlich-arabisch-indischen Ziffern in allen Konvertierungen." }
+  },
+  "Privacy": {
+    "title": "Ihre Dateien sind sicher",
+    "subtitle": "Datenschutz ist kein Feature — es ist das Fundament.",
+    "point1Title": "In Ihrem Browser verarbeitet",
+    "point1Desc": "Die meisten Werkzeuge laufen vollständig clientseitig. Ihre Dateien verlassen nie Ihr Gerät.",
+    "point2Title": "Automatisch gelöscht",
+    "point2Desc": "Alle temporär verarbeiteten Dateien werden automatisch gelöscht — es wird nichts gespeichert.",
+    "point3Title": "Kein Konto erforderlich",
+    "point3Desc": "Nutzen Sie alle Werkzeuge ohne Anmeldung. Ihre Daten bleiben Ihre."
+  },
+  "Footer": {
+    "tools": "Werkzeuge",
+    "about": "Über uns",
+    "privacy": "Datenschutz",
+    "terms": "AGB",
+    "contact": "Kontakt",
+    "rights": "Alle Rechte vorbehalten.",
+    "tagline": "Kostenlose PDF-Werkzeuge für arabische und mehrsprachige Dokumente."
+  },
+  "ToolPage": {
+    "uploadTitle": "Datei hochladen",
+    "uploadSubtitle": "Datei hier per Drag & Drop ablegen oder klicken zum Durchsuchen",
+    "browse": "Durchsuchen",
+    "supportedFormats": "Unterstützte Formate",
+    "processing": "Verarbeitung...",
+    "download": "Ergebnis herunterladen",
+    "faqTitle": "Häufig gestellte Fragen",
+    "relatedToolsTitle": "Verwandte Werkzeuge",
+    "faq1Q": "Ist dieses Werkzeug kostenlos?",
+    "faq1A": "Ja, dieses Werkzeug ist vollständig kostenlos ohne Limits. Keine Anmeldung erforderlich, keine täglichen Begrenzungen, keine Dateigrößenbeschränkungen.",
+    "faq2Q": "Sind meine Dateien sicher?",
+    "faq2A": "Ja. Die meisten Werkzeuge verarbeiten Dateien direkt in Ihrem Browser. Es wird nichts auf unsere Server hochgeladen.",
+    "faq3Q": "Muss ich ein Konto erstellen?",
+    "faq3A": "Nein. Alle Werkzeuge funktionieren sofort ohne Konto oder Registrierung.",
+    "faq4Q": "Unterstützt es arabischen Text?",
+    "faq4A": "Absolut. Alle unsere Werkzeuge sind mit Unterstützung für arabische und mehrsprachige Dokumente entwickelt, einschließlich korrekter RTL-Verarbeitung und arabischer OCR.",
+    "backToTools": "Zurück zu allen Werkzeugen",
+    "notFound": "Werkzeug nicht gefunden",
+    "notFoundDesc": "Das gesuchte Werkzeug existiert nicht."
+  }
+}

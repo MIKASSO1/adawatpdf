@@ -1,0 +1,103 @@
+{
+  "Meta": {
+    "title": "AdawatPDF - Ferramentas PDF gratuitas para todos",
+    "description": "Ferramentas PDF poderosas, projetadas para documentos árabes e multilíngues. Mesclar, dividir, converter, comprimir e OCR seus arquivos PDF - tudo no seu navegador, 100% gratuito, sem limites.",
+    "ogTitle": "AdawatPDF - Ferramentas PDF para todos",
+    "ogDescription": "Ferramentas PDF poderosas, projetadas para documentos árabes e multilíngues. 100% gratuito, sem limites."
+  },
+  "Nav": {
+    "tools": "Ferramentas",
+    "about": "Sobre",
+    "language": "Idioma"
+  },
+  "Hero": {
+    "title": "Ferramentas PDF para todos",
+    "subtitle": "Ferramentas PDF poderosas, projetadas para documentos árabes e multilíngues. 100% gratuito, sem limites, sem cadastro.",
+    "cta": "Explorar ferramentas",
+    "badge": "100% Gratuito — Sem cadastro, sem limites"
+  },
+  "Sidebar": {
+    "welcome": "Bem-vindo às Ferramentas PDF",
+    "welcomeDesc": "Todas as ferramentas são completamente gratuitas. Sem cadastro, sem limites, sem anúncios.",
+    "tools": "Ferramentas",
+    "categories": "Categorias",
+    "allTools": "Todas as ferramentas",
+    "organize": "Organizar PDF",
+    "convert": "Converter PDF",
+    "edit": "Editar PDF",
+    "security": "Segurança e OCR",
+    "recentTools": "Ferramentas recentes",
+    "tipsTitle": "Dicas e truques",
+    "tip1Title": "Mescle arquivos facilmente",
+    "tip1Desc": "Combine vários PDFs em um único com um clique. Reordene as páginas conforme necessário.",
+    "tip2Title": "Comprimir sem perda de qualidade",
+    "tip2Desc": "Reduza significativamente o tamanho do arquivo mantendo a qualidade visual intacta.",
+    "tip3Title": "OCR para documentos digitalizados",
+    "tip3Desc": "Extraia texto de PDFs e imagens digitalizadas em árabe, inglês e mais."
+  },
+  "Tools": {
+    "sectionTitle": "Todas as ferramentas PDF",
+    "sectionSubtitle": "Tudo o que você precisa para trabalhar com arquivos PDF — totalmente gratuito, rápido e seguro.",
+    "useTool": "Usar",
+    "pdfToWord": { "name": "PDF para Word", "description": "Converter documentos PDF em arquivos Word editáveis" },
+    "wordToPdf": { "name": "Word para PDF", "description": "Converter documentos Word para o formato PDF" },
+    "jpgToPdf": { "name": "JPG para PDF", "description": "Converter imagens em um único arquivo PDF" },
+    "pdfToJpg": { "name": "PDF para JPG", "description": "Extrair imagens das páginas PDF" },
+    "pdfToExcel": { "name": "PDF para Excel", "description": "Converter tabelas PDF em planilhas Excel" },
+    "pdfToText": { "name": "PDF para Texto", "description": "Extrair conteúdo de texto de arquivos PDF" },
+    "mergePdf": { "name": "Mesclar PDF", "description": "Combinar vários PDFs em um único arquivo" },
+    "splitPdf": { "name": "Dividir PDF", "description": "Dividir um PDF em páginas ou intervalos separados" },
+    "deletePages": { "name": "Excluir páginas", "description": "Remover páginas indesejadas do seu PDF" },
+    "rotatePdf": { "name": "Girar PDF", "description": "Girar páginas PDF em qualquer orientação" },
+    "compressPdf": { "name": "Comprimir PDF", "description": "Reduzir o tamanho do arquivo PDF mantendo a qualidade" },
+    "arabicOcr": { "name": "OCR Árabe", "description": "Extrair texto árabe e inglês de PDFs digitalizados" }
+  },
+  "ArabicFeatures": {
+    "title": "Por que o AdawatPDF se destaca em árabe",
+    "subtitle": "Construído desde a base para documentos árabes e multilíngues.",
+    "rtl": { "title": "Verdadeiro suporte RTL", "description": "Arquitetura completa de direita para esquerda, não apenas inversão de direção CSS. Cada componente respeita o fluxo de texto Bidi." },
+    "ocr": { "title": "Motor OCR Árabe", "description": "Extrair texto árabe e inglês de documentos digitalizados usando Tesseract.js com modelos treinados ara+eng." },
+    "multilingual": { "title": "Processamento multilíngue", "description": "Lidar com documentos que misturam árabe, inglês e números com tratamento correto de Unicode e Bidi." },
+    "arabicNumbers": { "title": "Suporte a números árabes", "description": "Tratamento correto de numerais arábico-índicos e arábico-índicos orientais em todas as conversões." }
+  },
+  "Privacy": {
+    "title": "Seus arquivos estão seguros",
+    "subtitle": "Privacidade não é um recurso — é a fundação.",
+    "point1Title": "Processado no seu navegador",
+    "point1Desc": "A maioria das ferramentas funciona inteiramente no lado do cliente. Seus arquivos nunca saem do seu dispositivo.",
+    "point2Title": "Exclusão automática",
+    "point2Desc": "Qualquer arquivo processado temporariamente é excluído automaticamente — nada é armazenado.",
+    "point3Title": "Sem conta necessária",
+    "point3Desc": "Use todas as ferramentas sem cadastro. Seus dados continuam sendo seus."
+  },
+  "Footer": {
+    "tools": "Ferramentas",
+    "about": "Sobre",
+    "privacy": "Privacidade",
+    "terms": "Termos",
+    "contact": "Contato",
+    "rights": "Todos os direitos reservados.",
+    "tagline": "Ferramentas PDF gratuitas projetadas para documentos árabes e multilíngues."
+  },
+  "ToolPage": {
+    "uploadTitle": "Carregue seu arquivo",
+    "uploadSubtitle": "Arraste e solte seu arquivo aqui, ou clique para procurar",
+    "browse": "Procurar",
+    "supportedFormats": "Formatos suportados",
+    "processing": "Processando...",
+    "download": "Baixar resultado",
+    "faqTitle": "Perguntas frequentes",
+    "relatedToolsTitle": "Ferramentas relacionadas",
+    "faq1Q": "Esta ferramenta é gratuita?",
+    "faq1A": "Sim, esta ferramenta é totalmente gratuita sem limites. Não é necessário cadastro, sem limites diários, sem restrições de tamanho de arquivo.",
+    "faq2Q": "Meus arquivos estão seguros?",
+    "faq2A": "Sim. A maioria das ferramentas processa os arquivos diretamente no seu navegador. Nada é enviado para nossos servidores.",
+    "faq3Q": "Preciso criar uma conta?",
+    "faq3A": "Não. Todas as ferramentas funcionam instantaneamente sem qualquer conta ou cadastro.",
+    "faq4Q": "Suporta texto em árabe?",
+    "faq4A": "Absolutamente. Todas as nossas ferramentas são construídas com suporte para documentos árabes e multilíngues, incluindo tratamento RTL correto e OCR árabe.",
+    "backToTools": "Voltar para todas as ferramentas",
+    "notFound": "Ferramenta não encontrada",
+    "notFoundDesc": "A ferramenta que você procura não existe."
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "Meta": {
+    "title": "AdawatPDF - Free PDF Tools for Everyone",
+    "description": "Powerful PDF tools, built for Arabic and multilingual documents. Merge, split, convert, compress, and OCR your PDF files - all in your browser, 100% free, no limits.",
+    "ogTitle": "AdawatPDF - PDF Tools for Everyone",
+    "ogDescription": "Powerful PDF tools, built for Arabic and multilingual documents. 100% free, no limits."
+  },
+  "Nav": {
+    "tools": "Tools",
+    "about": "About",
+    "language": "Language"
+  },
+  "Hero": {
+    "title": "PDF Tools for Everyone",
+    "subtitle": "Powerful PDF tools, built for Arabic and multilingual documents. 100% free, no limits, no signup.",
+    "cta": "Explore Tools",
+    "badge": "100% Free — No signup, no limits"
+  },
+  "Sidebar": {
+    "welcome": "Welcome to PDF Tools",
+    "welcomeDesc": "All tools are completely free. No signup, no limits, no ads.",
+    "tools": "Tools",
+    "categories": "Categories",
+    "allTools": "All Tools",
+    "organize": "Organize PDF",
+    "convert": "Convert PDF",
+    "edit": "Edit PDF",
+    "security": "Security & OCR",
+    "recentTools": "Recent Tools",
+    "tipsTitle": "Tips & Tricks",
+    "tip1Title": "Merge files easily",
+    "tip1Desc": "Combine multiple PDFs into one with a single click. Reorder pages as needed.",
+    "tip2Title": "Compress without quality loss",
+    "tip2Desc": "Reduce file size significantly while keeping visual quality intact.",
+    "tip3Title": "OCR for scanned docs",
+    "tip3Desc": "Extract text from scanned PDFs and images in Arabic, English, and more."
+  },
+  "Tools": {
+    "sectionTitle": "All PDF Tools",
+    "sectionSubtitle": "Everything you need to work with PDF files — completely free, fast, and secure.",
+    "useTool": "Use Tool",
+    "pdfToWord": { "name": "PDF to Word", "description": "Convert PDF documents to editable Word files" },
+    "wordToPdf": { "name": "Word to PDF", "description": "Convert Word documents to PDF format" },
+    "jpgToPdf": { "name": "JPG to PDF", "description": "Convert images to a single PDF file" },
+    "pdfToJpg": { "name": "PDF to JPG", "description": "Extract images from PDF pages" },
+    "pdfToExcel": { "name": "PDF to Excel", "description": "Convert PDF tables to Excel spreadsheets" },
+    "pdfToText": { "name": "PDF to Text", "description": "Extract text content from PDF files" },
+    "mergePdf": { "name": "Merge PDF", "description": "Combine multiple PDFs into one file" },
+    "splitPdf": { "name": "Split PDF", "description": "Split a PDF into separate pages or ranges" },
+    "deletePages": { "name": "Delete Pages", "description": "Remove unwanted pages from your PDF" },
+    "rotatePdf": { "name": "Rotate PDF", "description": "Rotate PDF pages to any orientation" },
+    "compressPdf": { "name": "Compress PDF", "description": "Reduce PDF file size while keeping quality" },
+    "arabicOcr": { "name": "Arabic OCR", "description": "Extract Arabic and English text from scanned PDFs" }
+  },
+  "ArabicFeatures": {
+    "title": "Why AdawatPDF Excels in Arabic",
+    "subtitle": "Built from the ground up for Arabic and multilingual documents.",
+    "rtl": { "title": "True RTL Support", "description": "Full right-to-left layout architecture, not just CSS direction flipping. Every component respects Bidi text flow." },
+    "ocr": { "title": "Arabic OCR Engine", "description": "Extract Arabic and English text from scanned documents using Tesseract.js with ara+eng trained models." },
+    "multilingual": { "title": "Multilingual Processing", "description": "Handle documents mixing Arabic, English, and numbers with correct Unicode and Bidi handling." },
+    "arabicNumbers": { "title": "Arabic Number Support", "description": "Correct handling of Arabic-Indic and Eastern Arabic-Indic numerals in all conversions." }
+  },
+  "Privacy": {
+    "title": "Your Files Are Safe",
+    "subtitle": "Privacy is not a feature — it's the foundation.",
+    "point1Title": "Processed in Your Browser",
+    "point1Desc": "Most tools run entirely client-side. Your files never leave your device.",
+    "point2Title": "Auto-Deleted",
+    "point2Desc": "Any temporarily processed files are automatically deleted — nothing is stored.",
+    "point3Title": "No Account Required",
+    "point3Desc": "Use all tools without signing up. Your data stays yours."
+  },
+  "Footer": {
+    "tools": "Tools",
+    "about": "About",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "contact": "Contact",
+    "rights": "All rights reserved.",
+    "tagline": "Free PDF tools built for Arabic and multilingual documents."
+  },
+  "ToolPage": {
+    "uploadTitle": "Upload your file",
+    "uploadSubtitle": "Drag & drop your file here, or click to browse",
+    "browse": "Browse Files",
+    "supportedFormats": "Supported formats",
+    "processing": "Processing...",
+    "download": "Download Result",
+    "faqTitle": "Frequently Asked Questions",
+    "relatedToolsTitle": "Related Tools",
+    "faq1Q": "Is this tool free to use?",
+    "faq1A": "Yes, this tool is completely free with no limits. No signup required, no daily caps, no file size restrictions.",
+    "faq2Q": "Are my files safe?",
+    "faq2A": "Yes. Most tools process files directly in your browser. Nothing is uploaded to our servers.",
+    "faq3Q": "Do I need to create an account?",
+    "faq3A": "No. All tools work instantly without any account or registration.",
+    "faq4Q": "Does it support Arabic text?",
+    "faq4A": "Absolutely. All our tools are built with Arabic and multilingual document support in mind, including proper RTL handling and Arabic OCR.",
+    "backToTools": "Back to all tools",
+    "notFound": "Tool not found",
+    "notFoundDesc": "The tool you're looking for doesn't exist."
+  }
+}
